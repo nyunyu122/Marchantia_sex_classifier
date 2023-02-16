@@ -1,5 +1,5 @@
 # Marchantia_sex_classifier
-Codes related to a sex classifiers of [/ Marchantia polymorpha].
+Codes related to a sex classifiers of *Marchantia polymorpha*.
 
 ## Codes
 ### 1. jupyter notebook
