@@ -32,4 +32,4 @@ Files in utils are listed below. They include nessesary library to execute jupyt
 ## Dataset
 
 Dataset should be put in a directory named "./data/data_original/".
-Original image files are upcoming.
+Original image files are available at https://ssbd.riken.jp/repository/290/ (DOI : https://doi.org/10.24631/ssbd.repos.2023.04.290).
